@@ -1,4 +1,5 @@
-Informações levantadas:
+# Informações levantadas:
+
 Constatou-se que 26,5% dos clientes cancelaram os seus serviços com a operadora.
 
 Maior taxa de cancelamento:
