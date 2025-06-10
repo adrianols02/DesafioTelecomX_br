@@ -13,6 +13,7 @@ Este relatório detalha as principais informações levantadas a partir da anál
 
 ### 1. Taxa Geral de Cancelamento
 Foi constatado que 26,5% do total de clientes cancelaram seus serviços com a operadora. Esta é uma métrica crucial que indica uma parcela significativa da base de clientes que não permanece utilizando os serviços, o que pode impactar diretamente a receita e a sustentabilidade do negócio.
+<img src="graficos\grafico_pizza.png" alt="Gráfico com a distribuição de clientes">
 
 ### 2. Modalidade de Assinatura com Maior Taxa de Cancelamento
 A análise revelou que a modalidade de assinatura mensal apresenta a maior taxa de cancelamento. Este dado sugere que os clientes com contratos mais flexíveis, que não exigem um compromisso de longo prazo, são mais propensos a encerrar sua relação com a operadora. Isso pode indicar uma menor fidelização ou uma maior sensibilidade a fatores como preço e qualidade do serviço para esse grupo.
